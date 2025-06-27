@@ -6,7 +6,7 @@
 - 朝起きたら今日の記録としてやりたいことや一言を記録します。
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://wellnoa.sakura.ne.jp/kadai07_basic_php/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回はなし
